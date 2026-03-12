@@ -1,12 +1,12 @@
-# Privacy Policy – Tigrinho Game App
+# Privacy Policy – Tigrerino
 
 Last updated: 06 March 2026
 
-This Privacy Policy describes how Tigrinho Game App (the “App”) handles user data.
+This Privacy Policy describes how Tigerino (the “App”) handles user data.
 
 ## 1. Developer Information
 Developer: Daria –   
-Contact: muhammadchaudharynn@gmail.com  
+Contact: muhammadchaudharynn2@gmail.com  
 
 ## 2. Data Collection
 
@@ -42,4 +42,4 @@ Since no personal data is collected, there is no storage of user personal inform
 This Privacy Policy may be updated. Updates will be reflected on this page.
 
 If you have questions, contact:
-muhammadchaudharynn@gmail.com
+muhammadchaudharynn2@gmail.com
