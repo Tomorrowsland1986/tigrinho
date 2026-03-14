@@ -8,8 +8,8 @@
   },
 
   "allowed": {
-    "countries": ["ES"],
-    "url": "https://www.google.com"
+    "countries": ["BR","ES"],
+    "url": "https://mu.fastmui.com/redirect.aspx?pid=4399&bid=2157&redirectURL=https://20media.world"
   },
 
   "restricted": {
